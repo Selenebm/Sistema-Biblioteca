@@ -19,8 +19,7 @@ Para utilizar este sistema, necesitas tener Python 3.8 o superior instalado.
 1. **Clona el Repositorio:**
 
     ```bash
-    git clone https://github.com/tuusuario/gestor-biblioteca.git
-    cd gestor-biblioteca
+    https://github.com/Selenebm/Sistema-Biblioteca.git
     ```
 
 2. **Instala las Dependencias (si es necesario):**
@@ -31,10 +30,10 @@ Para utilizar este sistema, necesitas tener Python 3.8 o superior instalado.
 
 1. **Ejecución del Script Principal:**
 
-    Puedes ejecutar el script principal `sistema_biblioteca.py` para utilizar el sistema. Este script incluye ejemplos de cómo registrar usuarios, bibliotecarios, agregar artículos, realizar préstamos y reservas.
+    Puedes ejecutar el script principal `sistema-biblioteca.py` para utilizar el sistema. Este script incluye ejemplos de cómo registrar usuarios, bibliotecarios, agregar artículos, realizar préstamos y reservas.
 
     ```bash
-    python sistema_biblioteca.py
+    python sistema-biblioteca.py
     ```
 
 2. **Métodos y Funcionalidades:**
@@ -94,13 +93,3 @@ Para utilizar este sistema, necesitas tener Python 3.8 o superior instalado.
     git commit -m "Descripción de los cambios"
     git push origin mi-nueva-rama
     ```
-
-5. **Abre un Pull Request.**
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
-## Contacto
-
-Para preguntas o sugerencias, por favor, contacta a [tu-email@example.com](mailto:tu-email@example.com).
